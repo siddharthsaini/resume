@@ -1,0 +1,6 @@
+Github upload snippet:
+git init
+git add .
+git remote add github <url>
+git remote -v
+git push -f github master
